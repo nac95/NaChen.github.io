@@ -1,7 +1,7 @@
 ## Welcome to My Pages
 
 ### [Personalized Event Recommendation System](http://18.212.178.37/Jupiter/index.html)
-This project developed an interactive website for users to search events, such as sports, concerts, arts and theater events, mark favorite and view recommended events
+This project developed an interactive website for users to search events, such as sports, concerts, arts and theater events, mark favorite and view personalized recommended events 
 
 ### [Shopping and Ordering System](http://18.212.178.37/onlineShop/)
 This project built an interactive amazon-liked web application for users to shop and order online
