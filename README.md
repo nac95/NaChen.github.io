@@ -1,9 +1,9 @@
 ## Welcome to My Pages
 
-### [Personalized Event Recommendation System](http://18.212.178.37/Jupiter/index.html)
+### [Personalized Event Recommendation System](http://www.nachen.me/Jupiter/)
 This project developed an interactive website for users to search events, such as sports, concerts, arts and theater events, mark favorite and view recommended events
 
-### [Shopping and Ordering System](http://18.212.178.37/onlineShop/)
+### [Shopping and Ordering System](http://www.nachen.me/onlineShop/)
 This project built an interactive amazon-liked web application for users to shop and order online
 
 ### [Pacman Game](https://github.com/nac95/cse511a_sp19_Pacman_Game)
